@@ -3,9 +3,3 @@ print('C++ Print Funtion')
 print('Java Print Function')
 print('JavaScript Print Functádđsaion')
 print('Ruby Print Functiassoaaaaaaaaaaaan')
-print('Go Print Function')
-print('Swift Print Function')
-print('Kotlin Print Function')
-def add(a, b):
-    return a + b
-print(add(5, 10))
