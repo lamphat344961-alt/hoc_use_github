@@ -1,2 +1,5 @@
 print('Python Print Function')
 print('C++ Print Funtion')
+print('Java Print Function')
+print('JavaScript Print Functádđsaion')
+print('Ruby Print Functiasson')
